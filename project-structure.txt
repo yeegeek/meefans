@@ -1,0 +1,50 @@
+.
+├── DEVELOPMENT.md
+├── PROJECT_SUMMARY.md
+├── README.md
+├── api-analysis.md
+├── api.md
+├── architecture.md
+├── backend
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── pnpm-workspace.yaml
+│   ├── src
+│   │   ├── app.js
+│   │   ├── config
+│   │   ├── controllers
+│   │   ├── middlewares
+│   │   ├── models
+│   │   ├── routes
+│   │   └── utils
+│   ├── test-api.sh
+│   ├── tests
+│   │   ├── auth.test.js
+│   │   └── feed.test.js
+│   └── uploads
+├── frontend
+│   ├── index.html
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.js
+│   ├── public
+│   │   └── vite.svg
+│   ├── src
+│   │   ├── App.jsx
+│   │   ├── components
+│   │   ├── counter.js
+│   │   ├── hooks
+│   │   ├── index.css
+│   │   ├── javascript.svg
+│   │   ├── main.js
+│   │   ├── main.jsx
+│   │   ├── pages
+│   │   ├── services
+│   │   ├── store
+│   │   ├── style.css
+│   │   └── utils
+│   └── tailwind.config.js
+├── project-structure.txt
+└── start.sh
+
+19 directories, 28 files
